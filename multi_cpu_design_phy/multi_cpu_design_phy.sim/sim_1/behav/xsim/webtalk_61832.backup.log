@@ -1,0 +1,15 @@
+#-----------------------------------------------------------
+# Webtalk v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Mon Oct  4 16:45:34 2021
+# Process ID: 61832
+# Current directory: F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.sim/sim_1/behav/xsim
+# Command line: wbtcv.exe -mode batch -source F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.sim/sim_1/behav/xsim/xsim.dir/multi_cycle_cpu_behav/webtalk/xsim_webtalk.tcl -notrace
+# Log file: F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.sim/sim_1/behav/xsim/webtalk.log
+# Journal file: F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.sim/sim_1/behav/xsim\webtalk.jou
+#-----------------------------------------------------------
+source F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.sim/sim_1/behav/xsim/xsim.dir/multi_cycle_cpu_behav/webtalk/xsim_webtalk.tcl -notrace
+INFO: [Common 17-186] 'F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.sim/sim_1/behav/xsim/xsim.dir/multi_cycle_cpu_behav/webtalk/usage_statistics_ext_xsim.xml' has been successfully sent to Xilinx on Mon Oct  4 16:45:39 2021. For additional details about this file, please refer to the WebTalk help file at E:/vivaoinstall/Vivado/2019.1/doc/webtalk_introduction.html.
+webtalk_transmit: Time (s): cpu = 00:00:00 ; elapsed = 00:00:05 . Memory (MB): peak = 109.387 ; gain = 17.859
+INFO: [Common 17-206] Exiting Webtalk at Mon Oct  4 16:45:39 2021...

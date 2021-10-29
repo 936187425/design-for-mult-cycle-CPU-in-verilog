@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<Runs Version="1" Minor="0">
+	<Run Id="instruc_rom_phy_synth_1" LaunchDir="F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.runs/instruc_rom_phy_synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado"/>
+	<Run Id="synth_1" LaunchDir="F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.runs/synth_1" FlowId="Vivado_Synthesis" FromStepId="vivado" ToStepId="vivado">
+		<Parent Id="instruc_rom_phy_synth_1"/>
+	</Run>
+	<Parameters>
+		<Parameter Name="runs.monitorLSFJobs" Val="true" Type="bool"/>
+	</Parameters>
+</Runs>
+

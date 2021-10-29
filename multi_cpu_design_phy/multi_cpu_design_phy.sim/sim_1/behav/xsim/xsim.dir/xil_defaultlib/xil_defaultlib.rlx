@@ -1,0 +1,17 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sim_1/new/multi_cycle_cpu.v,1633415935,verilog,,,,multi_cycle_cpu,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/ip/data_ram_phy/sim/data_ram_phy.v,1633185157,verilog,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/mult_clock_cpu_phy.v,,data_ram_phy,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/access_mem_phy.v,1633316922,verilog,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/wb_reg_phy.v,,access_mem_phy,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/adder_phy.v,1633186413,verilog,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/alu_phy.v,,adder_phy,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/alu_phy.v,1633188630,verilog,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/reg_stack_phy.v,,alu_phy,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/decoder_code_phy.v,1633228901,verilog,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/instruc_rom_phy.v,,decoder_code_phy,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/exe_instruc_phy.v,1633354402,verilog,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/fetch_instruc_phy.v,,exe_instruc_phy,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/fetch_instruc_phy.v,1633353576,verilog,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/decoder_code_phy.v,,fetch_instruc_phy,,,,,,,,
+,,,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sim_1/new/multi_cycle_cpu.v,,instruc_rom_phy,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/mult_clock_cpu_phy.v,1634049474,verilog,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/adder_phy.v,,mult_clock_cpu_phy,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/reg_stack_phy.v,1633415304,verilog,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/access_mem_phy.v,,reg_stack_phy,,,,,,,,
+F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/wb_reg_phy.v,1633359001,verilog,,F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/exe_instruc_phy.v,,wb_reg_phy,,,,,,,,

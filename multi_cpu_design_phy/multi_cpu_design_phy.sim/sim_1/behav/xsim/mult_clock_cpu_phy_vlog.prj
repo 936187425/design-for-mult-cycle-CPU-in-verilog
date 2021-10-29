@@ -1,0 +1,20 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../multi_cpu_design_phy.srcs/sources_1/ip/data_ram_phy/sim/data_ram_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sources_1/ip/instruc_rom_phy/sim/instruc_rom_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sources_1/new/mult_clock_cpu_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sources_1/new/adder_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sources_1/new/alu_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sources_1/new/reg_stack_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sources_1/new/access_mem_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sources_1/new/wb_reg_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sources_1/new/exe_instruc_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sources_1/new/fetch_instruc_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sources_1/new/decoder_code_phy.v" \
+"../../../../multi_cpu_design_phy.srcs/sim_1/new/multi_cycle_cpu.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

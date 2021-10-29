@@ -1,0 +1,29 @@
+Vivado Simulator 2019.1
+Copyright 1986-1999, 2001-2019 Xilinx, Inc. All Rights Reserved.
+Running: E:/vivaoinstall/Vivado/2019.1/bin/unwrapped/win64.o/xelab.exe -wto b57bb2c97af84b4d8a6089184c7d6ba3 --incr --debug typical --relax --mt 2 -L blk_mem_gen_v8_4_3 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip -L xpm --snapshot multi_cycle_cpu_behav xil_defaultlib.multi_cycle_cpu xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+WARNING: [VRFC 10-3091] actual bit length 64 differs from formal bit length 65 for port 'IF2ID_bus' [F:/design-for-mult-cycle-CPU-in-verilog/multi_cpu_design_phy/multi_cpu_design_phy.srcs/sources_1/new/mult_clock_cpu_phy.v:262]
+Completed static elaboration
+Starting simulation data flow analysis
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.fetch_instruc_phy
+Compiling module xil_defaultlib.decoder_code_phy
+Compiling module xil_defaultlib.adder_phy
+Compiling module xil_defaultlib.alu_phy
+Compiling module xil_defaultlib.exe_instruc_phy
+Compiling module xil_defaultlib.access_mem_phy
+Compiling module xil_defaultlib.wb_reg_phy
+Compiling module xil_defaultlib.reg_stack_phy
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3_output_stage(...
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3_softecc_outpu...
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3_mem_module(C_...
+Compiling module blk_mem_gen_v8_4_3.blk_mem_axi_regs_fwd_v8_4(C_DATA...
+Compiling module blk_mem_gen_v8_4_3.blk_mem_gen_v8_4_3(C_FAMILY="art...
+Compiling module xil_defaultlib.data_ram_phy
+Compiling module xil_defaultlib.instruc_rom_phy
+Compiling module xil_defaultlib.mult_clock_cpu_phy
+Compiling module xil_defaultlib.multi_cycle_cpu
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot multi_cycle_cpu_behav
